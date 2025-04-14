@@ -1,0 +1,12 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-eseries",
+    "MetaModuleDescription": "ESeries for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "E340",
+            "name": "E340 Cloud Generator"
+        }
+    ]
+}
